@@ -1,5 +1,6 @@
 // C++ code
 //
+
 int button = 8;
 int red_light = 7;
 int blue_light = 6;
