@@ -18,10 +18,11 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | Quiz number | Description                                               | Note            |
 |-------------|-----------------------------------------------------------|-----------------|
 | 1           | Design electrical circuits and program the LED lights.    | I don't sumbit. |
-| 2           | [Turn LED lights on and off according to light conditions.](https://github.com/teddythinh/Internet-of-Thing/blob/main/quiz02.ino) |                 |
+| 2           | [Turn LED lights on and off according to light conditions.](https://github.com/teddythinh/Internet-of-Thing/tree/main/quiz02) |                 |
+| 3           | [Display the temperature on the LCD screen.](https://github.com/teddythinh/Internet-of-Thing/tree/main/quiz03)    |                 |
 
 ### Projects
 
 | Project number | Description                                               | Note            |
 |----------------|-----------------------------------------------------------|-----------------|
-| 1              | [Design electrical circuits and program the LED lights according to the project requirements.](https://github.com/teddythinh/Internet-of-Thing/blob/main/quiz02.ino) |              |
+| 1              | [Design electrical circuits and program the LED lights according to the project requirements.](https://github.com/teddythinh/Internet-of-Thing/tree/main/lab01) |              |
